@@ -68,11 +68,11 @@ export default function Home() {
 
       <h2 id="contact-section" className="title" style={{ marginTop: '40px' }}>오시는 길</h2>
       <p className="clinic-desc">
-        인천광역시 계양구 작전대로 ○○, 한미리빌딩 2층 (서울신내과)<br />
+        인천광역시 계양구 오조산로 3, 한미리빌딩 2층 (서울신내과)<br />
         작전역 4번 출구에서 300번 버스 이용 (10분), 계산역에서 588번 버스 이용 (10분)<br />
         김포공항에서는 자가용으로 약 25분 거리, 작전역에서 약 8분 거리<br /><br />
         투석실 연락처: <strong>032-545-0333</strong><br />
-        <strong>지하 1층 무료 주차 가능</strong>
+        <strong>지하 1층 1시간 무료 주차 가능</strong>
       </p>
 
       {/* ✅ 여기 지도 삽입 */}
