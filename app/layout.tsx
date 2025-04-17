@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export const metadata = {
   title: "서울신내과",
-  description: "서울시 계양구에 위치한 서울신내과 공식 홈페이지입니다.",
+  description: "서울신내과 공식 홈페이지입니다.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

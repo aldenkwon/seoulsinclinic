@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <div className="banner">
-        📢 5월 1일(수) 근로자의 날 휴진합니다.
+        📢 공지사항 입니다.
       </div>
 
       <h1 className="title">서울신내과 입니다.</h1>
